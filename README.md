@@ -1,7 +1,7 @@
 # COVID-19
 
 
-In this work, we use adavcned deep learning framework based on EfficientNet-2 to detect COVID-19 from chest X-rays is proposed.
+In this work, we use adavcned deep learning framework based on [EfficientNet-2](https://arxiv.org/abs/1905.11946) to detect COVID-19 from chest X-rays is proposed.
 
 
 Our paper is under the publicaon:
