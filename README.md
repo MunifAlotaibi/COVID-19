@@ -6,4 +6,3 @@ In this work, we use adavcned deep learning framework based on [EfficientNet-2](
 
 Our paper is under publication:
 - COVID-19 Early Detection Based on Deep EfficientNet and Transfer Learning Using X-ray Images 
-- We will upload the dataset and other files soon. 
